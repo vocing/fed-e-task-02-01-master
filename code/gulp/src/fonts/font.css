@@ -1,0 +1,227 @@
+@font-face {
+    font-family: my-icon;
+    src: url("my-icon.eot");src: url("my-icon.eot?b058a006#iefix") format("embedded-opentype"),
+             url("my-icon.woff2?b058a006") format("woff2"),
+             url("my-icon.woff?b058a006") format("woff"),
+             url("my-icon.ttf?b058a006") format("truetype"),
+             url("my-icon.svg?b058a006#my-icon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="ico"], [class*=" ico"] {
+    font-family: 'my-icon' !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-style: normal;
+}
+
+
+.ico-arrow-right::before {
+    content: "\ea01";
+}
+
+.ico-back::before {
+    content: "\ea02";
+}
+
+.ico-circel-hollow::before {
+    content: "\ea03";
+}
+
+.ico-close::before {
+    content: "\ea04";
+}
+
+.ico-delete::before {
+    content: "\ea05";
+}
+
+.ico-delete2::before {
+    content: "\ea06";
+}
+
+.ico-dialog-box::before {
+    content: "\ea07";
+}
+
+.ico-diamond::before {
+    content: "\ea08";
+}
+
+.ico-endlive::before {
+    content: "\ea09";
+}
+
+.ico-face::before {
+    content: "\ea0a";
+}
+
+.ico-heart-hollow::before {
+    content: "\ea0b";
+}
+
+.ico-heart::before {
+    content: "\ea0c";
+}
+
+.ico-historyIcon::before {
+    content: "\ea0d";
+}
+
+.ico-live-text::before {
+    content: "\ea0e";
+}
+
+.ico-live-video::before {
+    content: "\ea0f";
+}
+
+.ico-live::before {
+    content: "\ea10";
+}
+
+.ico-more::before {
+    content: "\ea11";
+}
+
+.ico-navbar-combination::before {
+    content: "\ea12";
+}
+
+.ico-navbar-course::before {
+    content: "\ea13";
+}
+
+.ico-navbar-more::before {
+    content: "\ea14";
+}
+
+.ico-navbar-person::before {
+    content: "\ea15";
+}
+
+.ico-navbar-silkbag::before {
+    content: "\ea16";
+}
+
+.ico-navbar-stockpool::before {
+    content: "\ea17";
+}
+
+.ico-nothumbs::before {
+    content: "\ea18";
+}
+
+.ico-nowlive::before {
+    content: "\ea19";
+}
+
+.ico-onePerson::before {
+    content: "\ea1a";
+}
+
+.ico-person::before {
+    content: "\ea1b";
+}
+
+.ico-persons::before {
+    content: "\ea1c";
+}
+
+.ico-picture::before {
+    content: "\ea1d";
+}
+
+.ico-question-answer-comment::before {
+    content: "\ea1e";
+}
+
+.ico-question-answer-like::before {
+    content: "\ea1f";
+}
+
+.ico-question-comment::before {
+    content: "\ea20";
+}
+
+.ico-question-featured::before {
+    content: "\ea21";
+}
+
+.ico-question-investment-adviser::before {
+    content: "\ea22";
+}
+
+.ico-question-like::before {
+    content: "\ea23";
+}
+
+.ico-question-mine::before {
+    content: "\ea24";
+}
+
+.ico-question-stock::before {
+    content: "\ea25";
+}
+
+.ico-right::before {
+    content: "\ea26";
+}
+
+.ico-search::before {
+    content: "\ea27";
+}
+
+.ico-share::before {
+    content: "\ea28";
+}
+
+.ico-square-hollow::before {
+    content: "\ea29";
+}
+
+.ico-star-blank::before {
+    content: "\ea2a";
+}
+
+.ico-star-full::before {
+    content: "\ea2b";
+}
+
+.ico-star-half::before {
+    content: "\ea2c";
+}
+
+.ico-star-hollow::before {
+    content: "\ea2d";
+}
+
+.ico-star-solid::before {
+    content: "\ea2e";
+}
+
+.ico-star::before {
+    content: "\ea2f";
+}
+
+.ico-sure-circle-solid::before {
+    content: "\ea30";
+}
+
+.ico-sure-square-hollow::before {
+    content: "\ea31";
+}
+
+.ico-thumbs::before {
+    content: "\ea32";
+}
+
+.ico-tips-error::before {
+    content: "\ea33";
+}
+
+.ico-video-camera::before {
+    content: "\ea34";
+}
+

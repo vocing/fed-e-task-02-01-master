@@ -1,0 +1,16 @@
+CACHE MANIFEST
+CACHE:
+# 2020-04-30 v1.0.0
+/index.html
+/js/index.*.js
+/js/chunk-*.*.js
+/css/index.*.css
+/css/chunk-*.*.css
+/static/js/vue.min.js
+/static/js/vuex.min.js
+/static/js/vue-router.min.js
+/static/js/axios.min.js
+
+NETWORK:
+
+FALLBACK:

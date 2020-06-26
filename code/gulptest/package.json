@@ -1,0 +1,15 @@
+{
+  "name": "gulp-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build",
+    "clean": "gulp clean"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "zce-pages": "^0.2.0"
+  }
+}
